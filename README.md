@@ -1,3 +1,7 @@
+**New repository: <https://codeberg.org/keysmashes/mute-tab>**
+
+---
+
 # Tab Muter
 
 Re-enables the "Mute Tab" feature once found in Chrome itself.
